@@ -1,6 +1,6 @@
 # [Embedded-PaymentForm-JavaScript]
 ##  Índice
-* [1. Introducción](#introduccion)
+* [1. Introducción](#1-introducción)
 * [2. Requisitos previos](#2-requisitos-previos)
 * [3. Despliegue](#3-despliegue)
 * [4. Datos de conexión](#4-datos-de-conexión)
@@ -8,7 +8,7 @@
 * [6. Implementación de la IPN](#6-implementación-de-la-ipn)
 * [7. Personalización](#7-personalización)
 * [8. Consideraciones](#8-consideraciones)
-## 1. Introducción <a name="introduccion"></a>
+## 1. Introducción
 En este manual podrás encontrar una guía paso a paso para configurar un proyecto de <span style="color:red">[JavaScript]</span> con la pasarela de pagos de IZIPAY. Te proporcionaremos instrucciones detalladas y credenciales de prueba para la instalación y configuración del proyecto, permitiéndote trabajar y experimentar de manera segura en tu propio entorno local.
 Este manual está diseñado para ayudarte a comprender el flujo de la integración de la pasarela para ayudarte a aprovechar al máximo tu proyecto y facilitar tu experiencia de desarrollo.
 
@@ -18,11 +18,11 @@ Este manual está diseñado para ayudarte a comprender el flujo de la integraci�
 
 <a name="Requisitos_Previos"></a>
  
-## 2. Requisitos previos <a name="2-requisitos-previos"></a>
+## 2. Requisitos previos
 * Extraer credenciales del Back Office Vendedor. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
 * Tener instalado Visual Studio Code
 
-## 3. Despliegue <a name="3-despliegue"></a>
+## 3. Despliegue
 ### Instalar Live Server
 Live Server, extensión para Visual Studio Code que simula un servidor web. Para instalarlo:
 1. Ingresar a la sección "Extensiones" de Visual Studio Code
